@@ -1,7 +1,9 @@
 # Electron Game Updater v2
 
 Second revision of [gustavokei/electron-game-updater](https://github.com/gustavokei/electron-game-updater).
+
 It will be a portable .exe that anyone can use.
+
 This should be developed for users that seek a low code solution.
 
 ## Getting Started
